@@ -1,0 +1,42 @@
+nav,
+main {
+  padding: 24px;
+}
+
+nav {
+  background-color: #1767df;
+  text-align: center;
+}
+
+nav a {
+  text-decoration: none;
+}
+
+nav a h2 {
+  color: #ffffff;
+  margin: 0;
+}
+
+main {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.card {
+  border: 1px solid grey;
+  border-radius: 4px;
+  margin-top: 24px;
+}
+
+.card img {
+  width: 100%;
+}
+
+.card-content {
+  padding: 16px;
+}
+
+.card-content a {
+  display: inline-block;
+  margin-top: 12px;
+}

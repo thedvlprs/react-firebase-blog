@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  color: black;
+}
+
+body {
+  background-color: #f5f5f5;
+}
+
+h1,
+h2 {
+  margin-bottom: 12px;
+}
+
+p {
+  margin-top: 12px;
+}
